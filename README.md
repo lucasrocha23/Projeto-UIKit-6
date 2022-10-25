@@ -2,7 +2,7 @@
 
 #  Projeto-UIKit-6
 
-Esse é um aplicativo simples, feito com para aplicar os estudos de UIKit. Trata-se de um aplicativo de edição de imagens, na qual o usuário pode selecionar alguma imagem de sua biblioteca, aplicar alguns efeitos nessas imagens e controlar a quantidade de efeito que é colocada.
+Esse é um aplicativo simples, feito com para aplicar os estudos de UIKit. Trata-se de um aplicativo de edição de imagens, na qual o usuário pode selecionar alguma imagem de sua biblioteca, aplicar alguns efeitos nessas imagens e controlar parâmetros do efeito que é aplicado.
 
 No canto superior direito, o usuário tem a opção de adicionar uma nova imagem para ser editada. Abaixo, temos a região na qual a imagem é mostrada. Mais abaixo, temos dois sliders, que servem para aplicar uma quantidade específica do efeito. No canto inferior esquerdo temos um botão de seleção dos efeitos disponíveis. No canto superior esquerdo temos um botão de salvamento das imagens editadas.
 
